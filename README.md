@@ -23,10 +23,3 @@ This project demonstrates an **ETL (Extract, Transform, Load)** pipeline built u
 Make sure you have the following installed on your local machine:
 - Python 3.x
 - MySQL or any other compatible database (PostgreSQL, SQLite, etc.)
-﻿
-### Step 1: Clone the repository
-To clone the project, use the following command:
-﻿
-```bash
-git clone https://github.com/your-username/ETL_Data_Pipeline_Project.git
-﻿
